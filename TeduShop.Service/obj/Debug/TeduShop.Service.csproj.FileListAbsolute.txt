@@ -1,0 +1,11 @@
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+D:\Hoc tap\Hoc web Api angular\Pratice\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
