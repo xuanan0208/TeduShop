@@ -20,3 +20,5 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\bin\Debug\EntityFramework.dll
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Service\bin\Debug\EntityFramework.xml

@@ -98,3 +98,5 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\System.Web.WebPag
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.xml
