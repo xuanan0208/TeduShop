@@ -7,19 +7,27 @@ using System.Threading.Tasks;
 
 namespace TeduShop.Data.Infastructure
 {
-   public interface IRepository <T> where T : class
+    public interface IRepository<T> where T : class
     {
         // Marks an entity as new
-        void add(T entity);
+        T Add(T entity);
+
+        // Marks an entity as modified
         void Update(T entity);
 
-        void Delete(T entity);
+        // Marks an entity to be removed
+        T Delete(T entity);
 
+        T Delete(int id);
+
+        //Delete multi records
         void DeleteMulti(Expression<Func<T, bool>> where);
 
+        // Get an entity by int id
         T GetSingleById(int id);
 
         T GetSingleByCondition(Expression<Func<T, bool>> expression, string[] includes = null);
+
         IEnumerable<T> GetAll(string[] includes = null);
 
         IEnumerable<T> GetMulti(Expression<Func<T, bool>> predicate, string[] includes = null);

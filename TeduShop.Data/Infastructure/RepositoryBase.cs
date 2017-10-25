@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 namespace TeduShop.Data.Infastructure
 {
     // thực thi các class đã đinh nghĩa trong iropository
-    public abstract class RepositoryBase<T> where T : class
+    public abstract class RepositoryBase<T> : IRepository<T> where T : class
     {
         #region Properties
 

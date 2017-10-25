@@ -24,3 +24,5 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\bin\Debug\TeduShop.Model.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache

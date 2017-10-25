@@ -29,7 +29,7 @@ namespace TeduShop.Data
         public DbSet<VisitorStatistic> VisitorStatistics { get; set; }
         protected override void OnModelCreating(DbModelBuilder builder)
         {
-            base.OnModelCreating(builder);
+            //base.OnModelCreating(builder);
         }
     }
 }
