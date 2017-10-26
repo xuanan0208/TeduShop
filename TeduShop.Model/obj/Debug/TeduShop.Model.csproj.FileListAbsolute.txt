@@ -17,4 +17,3 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Model\bin\Debug\EntityFramework.xml
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
-D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache

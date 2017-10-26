@@ -9,7 +9,7 @@ using System.Linq;
 
 namespace TeduShop.Data.Repositories
 {
-    public interface IproductCategoryRepository
+    public interface IproductCategoryRepository : IRepository<ProductCategory>
     {
         IEnumerable<ProductCategory> GetByAlias(string alias);
     }
