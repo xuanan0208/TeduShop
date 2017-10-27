@@ -57,5 +57,7 @@ namespace TeduShop.Service
         {
             _postCategoryRepository.Update(postCategory);
         }
+
+
     }
 }
