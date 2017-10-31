@@ -100,3 +100,11 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.xml
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll.config
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\Castle.Core.dll
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\Moq.dll
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\Castle.Core.xml
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\Moq.pdb
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.UnitTest\bin\Debug\Moq.xml
