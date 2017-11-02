@@ -7,3 +7,4 @@ D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+D:\Hoc tap\Hoc web Api angular\Git\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
